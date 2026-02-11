@@ -1,3 +1,4 @@
+//O(1)
 #ifndef LIVRO_H
 #define LIVRO_H
 

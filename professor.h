@@ -1,3 +1,4 @@
+//O(1)
 #ifndef PROFESSOR_H
 #define PROFESSOR_H
 

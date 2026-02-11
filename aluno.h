@@ -1,3 +1,4 @@
+//O(1)
 #ifndef ALUNO_H
 #define ALUNO_H
 

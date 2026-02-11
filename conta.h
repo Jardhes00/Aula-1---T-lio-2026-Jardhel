@@ -1,3 +1,4 @@
+//O(1)
 #ifndef CONTA_H
 #define CONTA_H
 

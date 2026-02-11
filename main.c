@@ -4,6 +4,7 @@
 
 #define MAX 50
 
+//O(1)
 int main() {
     Aluno alunos[MAX];
     int total = 0;

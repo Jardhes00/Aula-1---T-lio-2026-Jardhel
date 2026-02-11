@@ -1,3 +1,4 @@
+//O(1)
 #ifndef ENDERECO_H
 #define ENDERECO_H
 

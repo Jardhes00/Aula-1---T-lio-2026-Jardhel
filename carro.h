@@ -1,3 +1,4 @@
+//O(1)
 #ifndef CARRO_H
 #define CARRO_H
 
